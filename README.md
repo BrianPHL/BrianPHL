@@ -12,8 +12,7 @@
 - 📫 How to reach me **brianpasco2016@gmail.com**
 
 - ⚡ Fun fact **I am always sleepy...**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
