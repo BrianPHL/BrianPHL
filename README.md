@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome 👋</h1>
 <h2 align="center">BrianPHL</h2>
-<h3 align="center">intermediate front-end web developer from the philippines</h3>
+<h3 align="center">17-year old intermediate front-end web developer from the philippines</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brianphl&label=Profile%20views&color=0e75b6&style=flat" alt="brianphl" /> </p>
 
