@@ -3,6 +3,10 @@
   
 <br>
 
+<div align="center">
+<a href="https://brianphl.github.io/">brianphl.github.io</a>
+</div>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=brianphl&color=e9204f" alt="brianphl" /> 
 </p>
@@ -33,7 +37,3 @@
 </div>
 
 <br>
-
-<div align="center">
-<a href="https://brianphl.github.io/">My website portfolio</a>
-</div>
