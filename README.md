@@ -1,6 +1,6 @@
 <h4 align="center">Full-stack Web Developer & Full-stack FiveM Server Developer</h4>
 <h5 align="center">a 17-year old who is aspiring to become a Software Engineer</h5>
-
+  
 <br>
 
 <p align="center"> 
@@ -28,8 +28,12 @@
 </div>
 
 <div align="center">
-  <img width="440" src="https://github-readme-stats.vercel.app/api/wakatime?username=brianphl&layout=compact&theme=onedark&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
-  <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianphl&layout=compact&theme=onedark&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
+  <img width="385" src="https://github-readme-stats.vercel.app/api/wakatime?username=brianphl&layout=compact&theme=onedark&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
+  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianphl&layout=compact&theme=onedark&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
 </div>
 
 <br>
+
+<div align="center">
+<a href="https://brianphl.github.io/">My website portfolio</a>
+</div>
