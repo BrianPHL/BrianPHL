@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  [<img src="https://img.shields.io/badge/View-My_Portfolio-e9204f?style=default" />](https://brianphl.github.io/)
+  [<img src="https://img.shields.io/badge/Visit-My_Portfolio-e9204f?style=default" />](https://brianphl.github.io/)
   
 </div>
 
