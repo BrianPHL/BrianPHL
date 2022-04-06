@@ -40,8 +40,8 @@
 </div>
 
 <div align="center">
-  <img width="385" src="https://github-readme-stats.vercel.app/api/wakatime?username=brianphl&layout=compact&theme=onedark&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
-  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianphl&layout=compact&theme=onedark&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
+  <img width="375" src="https://github-readme-stats.vercel.app/api/wakatime?username=brianphl&layout=compact&theme=onedark&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianphl&layout=compact&theme=onedark&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
 </div>
 
 <br>
