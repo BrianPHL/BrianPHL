@@ -1,6 +1,6 @@
 <br>
 
-<h4 align="center">Full-stack Web Developer & Full-stack FiveM Server Developer</h4>
+<h4 align="center">Front-End Web Developer & Full-stack FiveM Server Developer</h4>
 <h5 align="center">a 17-year old who is aspiring to become a Software Engineer</h5>
 
 <br>
