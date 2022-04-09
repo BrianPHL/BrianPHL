@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/lua-%23007ACC.svg?style=for-the-badge&logo=lua&logoColor=white"  height="25"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25"/>
   <img src="https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"  height="25"/>
+  <img src="https://img.shields.io/badge/svelte-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white"  height="25"/>
 </p>
 
 <br>
