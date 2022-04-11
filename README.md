@@ -10,12 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=brianphl&color=e9204f" alt="brianphl" />
 </div>
 
-<div align="center">
-  
-  [<img src="https://img.shields.io/badge/Visit-My_Portfolio-e9204f?style=default" />](https://brianphl.github.io/)
-  
-</div>
-
 <br>
 
 <p align="center">
