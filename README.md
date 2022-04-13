@@ -1,3 +1,5 @@
+<br>
+
 <h4 align="center">Front-End Web Developer & Full-stack FiveM Server Developer</h4>
 <h5 align="center">a 17-year old who is aspiring to become a Software Engineer</h5>
 
@@ -31,3 +33,5 @@
    <img width="350" src="https://github-readme-stats.vercel.app/api?username=brianphl&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=e9204f&icon_color=e9204f&text_color=ffffff&bg_color=101010" />
    <img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=brianphl&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=e9204f&sideLabels=ffffff&fire=ffffff&currStreakLabel=e9204f&background=101010&hide_border=true" />
 </div>
+
+<br>
